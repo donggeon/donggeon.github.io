@@ -75,7 +75,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 - *2023.03 - 2023.06*, TA for ICE1005: Introduction to AI Programming and ICE3020: Algorithm Capstone Design, Inha University
 
 
-# 🎖 Scholarship
+# 🎖 Scholarships
 - *2024.02 - 2026.02*: &nbsp; Selected as [KT](https://corp.kt.com/eng/)'s Industry-Academic Scholarship Recipient (40 million KRW)
 - *2023.08*: &nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
