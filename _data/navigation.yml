@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "oneonlee.github.io/my/CV.pdf"
+    url: "https://oneonlee.github.io/my/CV.pdf"
 
   - title: "About Me"
     url: "/#about-me"
