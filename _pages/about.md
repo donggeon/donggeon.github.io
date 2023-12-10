@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I’m a B.S. student at Inha University. Here is my [CV](https://oneonlee.github.io/my/CV.pdf)
+I’m a B.S. student at Inha University. Here is my [CV](https://oneonlee.github.io/my/CV.pdf).
 
 My research interest includes:
 - Large Language Model (LLM)
