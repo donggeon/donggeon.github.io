@@ -21,7 +21,7 @@ redirect_from:
 I’m a B.S. student at Inha University. Here is my [CV](https://oneonlee.github.io/my/CV.pdf).
 
 My research interest includes:
-- Large Language Model (LLM)
+- Large Language Models (LLMs)
 - Korean Language (한글) Processing
 - Learning from Limited Data
 - Domain-specific Knowledge Distillation 
