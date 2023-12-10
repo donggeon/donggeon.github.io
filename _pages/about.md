@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 I’m a B.S. student at Inha University. Here is my [CV](https://oneonlee.github.io/my/CV.pdf).
 
 My research interest includes:
@@ -29,13 +28,24 @@ My research interest includes:
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.10*: &nbsp;🎉🎉 Accepted to M.S. program, [Graduate School of A.I., POSTECH](https://ai.postech.ac.kr/)
-- *2023.08*: &nbsp;💸💸 Received a research scholarship from Inha University. (1.5 million won)
-- *2023.07*: &nbsp;✈️✈️ Successfully presented at the MedInfo 2023 in Sydney 🇦🇺
-- *2023.05*: &nbsp;✈️✈️ Successfully presented at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
+- *2023.11*: &nbsp;🎉 Accepted to M.S. program, [Graduate School of A.I., POSTECH](https://ai.postech.ac.kr/)
+- *2023.11*: &nbsp;🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
+- *2023.08*: &nbsp;💸 Received a research scholarship from Inha University (1.5 million KRW)
+- *2023.07*: &nbsp;✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
+- *2023.05*: &nbsp;✈️ Successfully presented an oral presentation at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
+
+
+# 📖 Educations
+- *2018.03 - 2024.02*, **B.S.** in Information and Communication Engineering, Inha University
+
+
+# 💻 Work Experiences
+- *2022.11 - 2023.11*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Data Intelligence Lab**</a>, Inha University, South Korea 
+- *2021.07 - 2023.06*, Research Assistant, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">**Nursing Informatics Lab**</a>, Inha University, South Korea 
+- *2021.10 - 2023.05*, Software Educator, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">**Jamcoding Inc.**</a>, South Korea 
+
 
 # 📝 Publications 
-
 - **Effects of Language Differences on Inpatient Fall Detection Using Deep Learning** \\
 <a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a> \\
 Insook Cho, EunJu Lee, <u>DongGeon Lee</u> \\
@@ -52,23 +62,23 @@ Changhun Koo\*, Yoonjoo Jung\*, <u>DongGeon Lee*</u> (\*: equal contribution)\\
 <span style="color:darkred">**ACK**</span> 2021
 
 
+# 💡 Patent
+- **System for providing parking information and control method** \\
+<a href="https://doi.org/10.8080/1020210178090" style="color: #7289da; text-decoration: none;">[DOI]</a> \\
+Yoonjoo Jung, <u>DongGeon Lee</u>, Changhun Koo\\
+<!-- <span style="color:darkred">**ACK**</span> 2021 -->
+KR-Application No. 10-2021-0178090, South Korea, December 2021
 
-# 🎖 Honors and Awards
-- *2023.08*: &nbsp;💸💸 Received a research scholarship from Inha University. (1.5 million won)
-
-
-# 📖 Educations
-- *2018.03 - 2024.02*, **B.S.** in Information and Communication Engineering, Inha University.
 
 #  🧑‍🏫 Teaching Assistant Experiences
-- *2023.09 - 2023.12*, TA for ICE2004: Data Structure and ICE4016: Database Capstone Design, Inha University.
-- *2023.03 - 2023.06*, TA for ICE1005: Introduction to AI Programming and ICE3020: Algorithm Capstone Design, Inha University.
+- *2023.09 - 2023.12*, TA for ICE2004: Data Structure and ICE4016: Database Capstone Design, Inha University
+- *2023.03 - 2023.06*, TA for ICE1005: Introduction to AI Programming and ICE3020: Algorithm Capstone Design, Inha University
 
 
-# 💻 Internships and Work Experiences
-- *2022.11 - 2023.11*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Data Intelligence Lab**</a>, Inha University, South Korea 
-- *2021.07 - 2023.06*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Nursing Informatics Lab**</a>, Inha University, South Korea 
-- *2021.10 - 2023.05*, Software Educator, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">**Jamcoding Inc.**</a>, South Korea 
+# 🎖 Scholarship
+- *2024.02 - 2026.02*: &nbsp; Selected as [KT](https://corp.kt.com/eng/)'s Industry-Academic Scholarship Recipient (40 million KRW)
+- *2023.08*: &nbsp; Received a research scholarship from Inha University (1.5 million KRW)
+
 
 <!-- 
 # 💬 Invited Talks
