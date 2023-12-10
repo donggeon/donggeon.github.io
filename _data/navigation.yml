@@ -13,7 +13,7 @@ main:
     url: "/#-educations"
 
   - title: "Work Experiences"
-  url: "/#-work-experiences"
+    url: "/#-work-experiences"
 
   - title: "Publications"
     url: "/#-publications"
