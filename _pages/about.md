@@ -28,11 +28,11 @@ My research interest includes:
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.11*: &nbsp;🎉 Accepted to M.S. program, [Graduate School of A.I., POSTECH](https://ai.postech.ac.kr/)
-- *2023.11*: &nbsp;🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
-- *2023.08*: &nbsp;💸 Received a research scholarship from Inha University (1.5 million KRW)
-- *2023.07*: &nbsp;✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
-- *2023.05*: &nbsp;✈️ Successfully presented an oral presentation at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
+- *2023.11*: &nbsp;🎉🎉 Accepted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of A.I., POSTECH</a>
+- *2023.11*: &nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
+- *2023.08*: &nbsp;💸💸 Received a research scholarship from Inha University (1.5 million KRW)
+- *2023.07*: &nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
+- *2023.05*: &nbsp;✈️✈️ Successfully presented an oral presentation at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
 
 
 # 📖 Educations
@@ -76,7 +76,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 
 # 🎖 Scholarships
-- *2024.02 - 2026.02*: &nbsp; Selected as [KT](https://corp.kt.com/eng/)'s Industry-Academic Scholarship Recipient (40 million KRW)
+- *2024.02 - 2026.02*: &nbsp; Selected as <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a>'s Industry-Academic Scholarship Recipient (40 million KRW)
 - *2023.08*: &nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
 
