@@ -36,12 +36,12 @@ My research interest includes:
 
 
 # 📖 Educations
-- *2018.03 - 2024.02*, **B.S.** in Information and Communication Engineering, Inha University
-
+- *2018.03 - 2024.02*, **B.S.** in Information and Communication Engineering, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Inha University**</a>
+- *2024.02 - 2026.02*, **M.S.** in Artificial Intelligence, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">**POSTECH**</a>
 
 # 💻 Work Experiences
-- *2022.11 - 2023.11*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Data Intelligence Lab**</a>, Inha University, South Korea 
-- *2021.07 - 2023.06*, Research Assistant, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">**Nursing Informatics Lab**</a>, Inha University, South Korea 
+- *2022.11 - 2023.11*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
+- *2021.07 - 2023.06*, Research Assistant, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
 - *2021.10 - 2023.05*, Software Educator, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">**Jamcoding Co.,Ltd.**</a>, South Korea 
 
 
@@ -71,12 +71,12 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 
 #  🧑‍🏫 Teaching Assistant Experiences
-- *2023.09 - 2023.12*, TA for ICE2004: Data Structure and ICE4016: Database Capstone Design, Inha University
-- *2023.03 - 2023.06*, TA for ICE1005: Introduction to AI Programming and ICE3020: Algorithm Capstone Design, Inha University
+- *2023.09 - 2023.12*, TA for *ICE2004: Data Structure* and *ICE4016: Database Capstone Design*, Inha University
+- *2023.03 - 2023.06*, TA for *ICE1005: Introduction to AI Programming* and *ICE3020: Algorithm Capstone Design*, Inha University
 
 
 # 🎖 Scholarships
-- *2024.02 - 2026.02*: &nbsp; Selected as <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a>'s Industry-Academic Scholarship Recipient (40 million KRW)
+- *2024.02 - 2026.02*: &nbsp; Received funding from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a> for master's program (40 million KRW)
 - *2023.08*: &nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
 
