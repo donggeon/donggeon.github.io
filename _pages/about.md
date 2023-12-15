@@ -50,7 +50,7 @@ My research interest includes:
 - **Effects of Language Differences on Inpatient Fall Detection Using Deep Learning** \\
 <a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a> \\
 Insook Cho, EunJu Lee, <u>DongGeon Lee</u> \\
-<span style="color:darkred">**MedInfo 2023**</span> 
+<span style="color:darkred">**MedInfo**</span> 2023
 
 - **Bridging the Reporting Gap of Inpatient Falls to Improve Safety Practices Using Deep-Learning-Based Language Models and Multisite Data** \\
 <a href="https://bit.ly/cic23presentation" style="color: #7289da; text-decoration: none;">[Oral Presentation]</a> \\
