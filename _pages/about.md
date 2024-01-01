@@ -41,9 +41,10 @@ My research interest includes:
 
 
 # 💻 Work Experiences
-- *2022.11 - 2023.11*, Research Assistant, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
-- *2021.07 - 2023.06*, Research Assistant, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
-- *2021.10 - 2023.05*, Software Educator, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
+- *20242.01 - Present*, **Visiting Researcher**, <a href="https://www.hyperez.io/?lang=en" style="color: #7289da; text-decoration: none;">HyperEZ Inc.</a>, South Korea 
+- *2022.11 - 2023.11*, **Research Assistant**, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
+- *2021.07 - 2023.06*, **Research Assistant**, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
+- *2021.10 - 2023.05*, **Software Educator**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
 
 
 # 📝 Publications 
