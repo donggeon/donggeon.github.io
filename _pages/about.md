@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a B.S. student at Inha University. Here is my [CV](https://oneonlee.github.io/my/CV.pdf).
+I am a M.S. student in [Data Intelligence (DI) Lab](https://sites.google.com/view/postechdi/), Graduate School of Artificial Intelligence, POSTECH, South Korea, advised by [Prof. Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu). I finished my bachelor's degree from Dept. Information and Communication Engineering at [Inha University](https://eng.inha.ac.kr/), South Korea.
 
 My research interest includes:
 - Large Language Models (LLMs)
 - Korean Language (한글) Processing
 - Learning from Limited Data
-- Domain-specific Knowledge Distillation 
 
+Here is my [CV](https://oneonlee.github.io/my/CV.pdf).
+
+Contact: lee.dg.125[at]gmail[dot]com
 
 # 🔥 News
 <!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
