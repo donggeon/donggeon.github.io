@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an M.S. student in [Data Intelligence (DI) Lab](https://sites.google.com/view/postechdi/), Graduate School of Artificial Intelligence, POSTECH, South Korea, advised by [Prof. Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu). I received my B.S. degree from the Department of Information and Communication Engineering, [Inha University](https://eng.inha.ac.kr/), South Korea.
+I am a M.S. student in [Data Intelligence (DI) Lab](https://sites.google.com/view/postechdi/), Graduate School of Artificial Intelligence, POSTECH, South Korea, advised by [Prof. Hwanjo Yu](http://di.postech.ac.kr/hwanjoyu). I received my B.S. degree from the Department of Information and Communication Engineering, [Inha University](https://eng.inha.ac.kr/), South Korea.
 
 My research interest includes:
 - Large Language Models (LLMs)
