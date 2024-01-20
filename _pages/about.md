@@ -21,7 +21,6 @@ I am an M.S. student at the <a href="https://ai.postech.ac.kr/" style="color: #7
 
 My research interests include, but are not limited to, Large Language Models (LLMs), Natural Language Processing (NLP), and Data-centric AI.
 
-<br> 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: lee.dg.125[at]gmail[dot]com
 
