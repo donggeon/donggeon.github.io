@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an M.S. student at the <a href="https://sites.google.com/view/postechdi/" style="color: #7289da; text-decoration: none;">Data Intelligence (DI) Lab</a>, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">Pohang University of Science and Technology (POSTECH)</a>, South Korea, advised by <a href="[https://sites.google.com/view/postechdi/](http://di.postech.ac.kr/hwanjoyu)" style="color: #7289da; text-decoration: none;">Prof. Hwanjo Yu</a>. I received my B.S. degree from the <a href="https://eng.inha.ac.kr/eng/3590/subview..do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxODElMkZpbnRyb1ZpZXcuZG8lM0ZmbGFnJTNEJTI2" style="color: #7289da; text-decoration: none;">Department of Information and Communication Engineering</a>, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Inha University</a>, South Korea.
+I am an M.S. student at the <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">Pohang University of Science and Technology (POSTECH)</a>, South Korea, advised by <a href="[https://sites.google.com/view/postechdi/](http://di.postech.ac.kr/hwanjoyu)" style="color: #7289da; text-decoration: none;">Prof. Hwanjo Yu</a>. I received my B.S. degree from the <a href="https://eng.inha.ac.kr/eng/3590/subview..do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxODElMkZpbnRyb1ZpZXcuZG8lM0ZmbGFnJTNEJTI2" style="color: #7289da; text-decoration: none;">Department of Information and Communication Engineering</a>, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Inha University</a>, South Korea.
 
 My research interests include, but are not limited to, Large Language Models (LLMs), Natural Language Processing (NLP), and Data-centric AI.
 
-- CV: [Link](https://oneonlee.github.io/my/CV.pdf)
+<br> 
+- CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: lee.dg.125[at]gmail[dot]com
 
 # 🔥 News
