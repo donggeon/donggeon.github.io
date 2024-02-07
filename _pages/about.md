@@ -26,7 +26,7 @@ As a researcher in NLP, my ultimate goal is to make the world a better place usi
 In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Learning in LLMs**, and (3) **NLP for Korean**.
 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
-- Contact: lee.dg.125[at]gmail[dot]com
+- Contact: dg.lee@postech.ac.kr
 
 # 🔥 News
 <!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -43,10 +43,10 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 
 
 # 💻 Work Experiences
-- *2024.01 - Present*, **Visiting Researcher**, <a href="https://www.hyperez.io/?lang=en" style="color: #7289da; text-decoration: none;">HyperEZ Inc.</a>, South Korea 
+- *2024.01 - 2024.01*, **Visiting Researcher**, <a href="https://www.hyperez.io/?lang=en" style="color: #7289da; text-decoration: none;">HyperEZ Inc.</a>, South Korea 
 - *2022.11 - 2023.11*, **Research Assistant**, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
 - *2021.07 - 2023.06*, **Research Assistant**, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
-- *2021.10 - 2023.05*, **Software Educator**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
+- *2021.10 - 2023.05*, **Instructor**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
 
 
 # 📝 Publications 
@@ -80,9 +80,8 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 
 # 🎖 Scholarships
-<!--
-- *2024.02 - 2026.02* :&nbsp; Received funding from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a> for master's program (40 million KRW)
--->
+
+- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a> (40 million KRW)
 - *2023.08* :&nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
 
