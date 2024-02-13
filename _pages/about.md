@@ -81,7 +81,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 # 🎖 Scholarships
 
-- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT</a> (40 million KRW)
+- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea   (40 million KRW)
 - *2023.08* :&nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
 
