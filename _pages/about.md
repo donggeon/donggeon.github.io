@@ -80,7 +80,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 - *2023.03 - 2023.06*, TA for *ICE1005: Introduction to AI Programming* and *ICE3020: Algorithm Capstone Design*, Inha University
 
 
-# 🎖 Award & Scholarships
+# 🎖 Awards & Scholarships
 
 - *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea   (40 million KRW)
 - *2024.02* :&nbsp; Received the Best Engineering Student Award from College of Engineering, Inha University
