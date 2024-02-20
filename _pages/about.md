@@ -30,7 +30,8 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 
 # 🔥 News
 <!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.11* :&nbsp;🎉🎉 Accepted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
+- *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
+- *2024.02* :&nbsp;🏆🏆 Received the Best Engineering Student Award from Inha University
 - *2023.11* :&nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
 - *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University (1.5 million KRW)
 - *2023.07* :&nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
@@ -79,9 +80,10 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 - *2023.03 - 2023.06*, TA for *ICE1005: Introduction to AI Programming* and *ICE3020: Algorithm Capstone Design*, Inha University
 
 
-# 🎖 Scholarships
+# 🎖 Award & Scholarships
 
 - *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea   (40 million KRW)
+- *2024.02* :&nbsp; Received the Best Engineering Student Award from College of Engineering, Inha University
 - *2023.08* :&nbsp; Received a research scholarship from Inha University (1.5 million KRW)
 
 
