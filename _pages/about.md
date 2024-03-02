@@ -31,7 +31,7 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 # 🔥 News
 <!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
-- *2024.02* :&nbsp;🏆🏆 Received the Best Engineering Student Award from Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
+- *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
 - *2023.11* :&nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
 - *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University (1.5 million KRW)
 - *2023.07* :&nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
