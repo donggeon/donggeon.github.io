@@ -31,7 +31,7 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 # 🔥 News
 <!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
-- *2024.02* :&nbsp;🏆🏆 Received the Best Engineering Student Award from Inha University
+- *2024.02* :&nbsp;🏆🏆 Received the Best Engineering Student Award from Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
 - *2023.11* :&nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
 - *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University (1.5 million KRW)
 - *2023.07* :&nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
@@ -50,9 +50,9 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 - *2021.10 - 2023.05*, **Instructor**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
 
 
-# 📝 Publications 
+# 📝 Conferences 
 - **Effects of Language Differences on Inpatient Fall Detection Using Deep Learning** \\
-<a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a> \\
+<a href="https://pubmed.ncbi.nlm.nih.gov/38426881/" style="color: #7289da; text-decoration: none;">[Abstract]</a> <a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a> \\
 Insook Cho, EunJu Lee, <u>DongGeon Lee</u> \\
 <span style="color:darkred">**MedInfo**</span> 2023
 
@@ -82,8 +82,8 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 # 🎖 Awards & Scholarships
 
-- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea   (40 million KRW)
-- *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University
+- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>
+- *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News (Kor.)]</a>
 - *2023.08* :&nbsp; Received a Research Scholarship from Inha University (1.5 million KRW)
 
 
