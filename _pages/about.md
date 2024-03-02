@@ -52,17 +52,17 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 
 # 📝 Conferences 
 - **Effects of Language Differences on Inpatient Fall Detection Using Deep Learning** \\
-<a href="https://pubmed.ncbi.nlm.nih.gov/38426881/" style="color: #7289da; text-decoration: none;">[Abstract]</a> <a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a> \\
+<a href="https://pubmed.ncbi.nlm.nih.gov/38426881/" style="color: #7289da; text-decoration: none;">[Paper]</a> <!--<a href="https://bit.ly/medinfo2023poster" style="color: #7289da; text-decoration: none;">[Poster]</a>--> \\
 Insook Cho, EunJu Lee, <u>DongGeon Lee</u> \\
 <span style="color:darkred">**MedInfo**</span> 2023
 
 - **Bridging the Reporting Gap of Inpatient Falls to Improve Safety Practices Using Deep-Learning-Based Language Models and Multisite Data** \\
-<a href="https://bit.ly/cic23presentation" style="color: #7289da; text-decoration: none;">[Oral Presentation]</a> \\
+<a href="https://bit.ly/cic23s47" style="color: #7289da; text-decoration: none;">[Paper]</a><!--<a href="https://bit.ly/cic23presentation" style="color: #7289da; text-decoration: none;">[Oral Presentation]</a>--> \\
 <u>DongGeon Lee</u>, EunJu Lee, Insook Cho \\
 <span style="color:darkred">**AMIA**</span> 2023 Clinical Informatics Conference
 
 - **Through deep learning-based video processing, Design and implementation of Smart Port Parking Information System** \\
-<a href="https://bit.ly/ack2021presentation" style="color: #7289da; text-decoration: none;">[Oral Presentation]</a> \\
+<a href="https://koreascience.kr/article/CFKO202133648918944.page" style="color: #7289da; text-decoration: none;">[Paper]</a><!--<a href="https://bit.ly/ack2021presentation" style="color: #7289da; text-decoration: none;">[Oral Presentation]</a>--> \\
 Changhun Koo\*, Yoonjoo Jung\*, <u>DongGeon Lee*</u> (\*: equal contribution)\\
 <span style="color:darkred">**ACK**</span> 2021
 
