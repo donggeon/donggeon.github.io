@@ -23,7 +23,7 @@ My research interests are mainly in the field of Natural Language Processing (NL
 
 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 
-In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Learning in LLMs**, and (3) **NLP for Korean**.
+In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Learning in LLMs**, (3) **Applications of LLM** *(e.g., **Retreival-Augmented Generation** for LLMs)* and (4) **NLP for Korean**.
 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: dg.lee@postech.ac.kr
@@ -33,7 +33,7 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Lear
 - *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
 - *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
 - *2023.11* :&nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
-- *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University (1.5 million KRW)
+- *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University
 - *2023.07* :&nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
 - *2023.05* :&nbsp;✈️✈️ Successfully presented an oral presentation at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
 
@@ -81,8 +81,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 
 # 🎖 Awards & Scholarships
-
-- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>
+- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <!--<a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>-->
 - *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News (Kor.)]</a>
 - *2023.08* :&nbsp; Received a Research Scholarship from Inha University (1.5 million KRW)
 
