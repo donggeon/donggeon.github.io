@@ -17,26 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an **M.S. student** advised by <a href="http://di.postech.ac.kr/hwanjoyu" style="color: #7289da; text-decoration: none;">Prof. Hwanjo Yu</a> at the <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">Pohang University of Science and Technology (POSTECH)</a>, South Korea.<!-- I received my B.S. degree from the <a href="https://eng.inha.ac.kr/eng/3590/subview..do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxODElMkZpbnRyb1ZpZXcuZG8lM0ZmbGFnJTNEJTI2" style="color: #7289da; text-decoration: none;">Department of Information and Communication Engineering</a>, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Inha University</a>, South Korea.-->
+I am an **M.S. student** advised by <a href="http://di.postech.ac.kr/hwanjoyu" style="color: #7289da; text-decoration: none;">Prof. Hwanjo Yu</a> at the <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">Pohang University of Science and Technology (POSTECH)</a>, South Korea. I received my B.S. degree from the <a href="https://eng.inha.ac.kr/eng/3590/subview..do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxODElMkZpbnRyb1ZpZXcuZG8lM0ZmbGFnJTNEJTI2" style="color: #7289da; text-decoration: none;">Department of Information and Communication Engineering</a>, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Inha University</a>, South Korea.
 
-My research interests are mainly in the field of Natural Language Processing (NLP) and Machine Learning (ML).
+My research interests are mainly in the field of Natural Language Processing (NLP).
 
 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 
-In particular, I am dedicated to (1) **Data-centric NLP**, (2) **In-Context Learning in LLMs**, (3) **Applications of LLM** *(e.g., **Retreival-Augmented Generation** for LLMs)* and (4) **NLP for Korean**.
+In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of LLMs**, (3) **Domain Adaptation in LLMs**.
 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: dg.lee@postech.ac.kr
 
 # 🔥 News
-<!-- - *2022.02* :&nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence, POSTECH</a>
-- *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
-- *2023.11* :&nbsp;🤗🤗 Contributed to the Hugging Face transformer library <a href="https://github.com/huggingface/transformers/pull/27184" style="color: #7289da; text-decoration: none;">[Link]</a>
-- *2023.08* :&nbsp;💸💸 Received a research scholarship from Inha University
-- *2023.07* :&nbsp;✈️✈️ Successfully presented a poster at the MedInfo 2023 in Sydney 🇦🇺
-- *2023.05* :&nbsp;✈️✈️ Successfully presented an oral presentation at the AMIA 2023 Clinical Informatics Conference in Chicago 🇺🇸
-
+- *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>
+- *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University
+- *2023.08* :&nbsp;💸💸 Received a Research Scholarship from Inha University
 
 # 📖 Educations
 - *2024.02 - 2026.02*, **M.S. student** at <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a>
@@ -84,7 +79,7 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 # 🎖 Awards & Scholarships
 - *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <!--<a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>-->
-- *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News (Kor.)]</a>
+- *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
 - *2023.08* :&nbsp; Received a Research Scholarship from Inha University (1.5 million KRW)
 
 
