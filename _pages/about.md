@@ -29,9 +29,11 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of L
 - Contact: dg.lee@postech.ac.kr
 
 # 🔥 News
-- *2024.02* :&nbsp;🎉🎉 Admitted to M.S. program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>
+- *2024.02* :&nbsp;🎉🎉 Admitted to Master's program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>
+<!--
 - *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University
 - *2023.08* :&nbsp;💸💸 Received a Research Scholarship from Inha University
+-->
 
 # 📖 Educations
 - *2024.02 - 2026.02*, **M.S. student** at <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a>
@@ -78,7 +80,8 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 
 
 # 🎖 Awards & Scholarships
-- *2024.02 - 2026.02* :&nbsp; Received a sponsorship for master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <!--<a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>-->
+- *2024.02 - 2026.02* :&nbsp; Received a Sponsorship for Master's program from <a href="https://corp.kt.com/eng/" style="color: #7289da; text-decoration: none;">KT Corporation</a>, South Korea (40 million KRW) <!--<a href="https://www.hankyung.com/article/2024021277101" style="color: #7289da; text-decoration: none;">[Related News (Kor.)]</a>-->
+- *2024.05* :&nbsp; Received a Scholarship for Outstanding Graduate Students from POSTECH
 - *2024.02* :&nbsp; Received the Top Engineering Student Award from the College of Engineering, Inha University <a href="https://engcollege.inha.ac.kr/bbs/engineering/2462/122742/artclView.do" style="color: #7289da; text-decoration: none;">[News]</a>
 - *2023.08* :&nbsp; Received a Research Scholarship from Inha University (1.5 million KRW)
 
