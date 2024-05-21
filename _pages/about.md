@@ -87,11 +87,10 @@ KR-Application No. 10-2021-0178090, South Korea, December 2021
 - *2023.08* :&nbsp; Received a Research Scholarship from Inha University (1.5 million KRW)
 
 
-<!-- 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.05*, "An Overview of LLMs", Google Developer Student Clubs Inha University <a href="https://youtu.be/vsUfG8Xmrmg?feature=shared" style="color: #7289da; text-decoration: none;">[Video]</a>
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
  -->
