@@ -23,13 +23,14 @@ My research interests are mainly in the field of Natural Language Processing (NL
 
 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 
-In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of LLMs**, (3) **Domain Adaptation in LLMs**.
+In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of LLMs**, (3) **Domain Adaptation in LLMs**, and (4) Applications of LLM (e.g., **Retrieval-Augmented Generation** for LLMs).
 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: dg.lee@postech.ac.kr
 
 # 🔥 News
 - *2024.02* :&nbsp;🎉🎉 Admitted to Master's program, <a href="https://ai.postech.ac.kr/" style="color: #7289da; text-decoration: none;">Graduate School of Artificial Intelligence</a>, <a href="https://postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>
+
 <!--
 - *2024.02* :&nbsp;🏆🏆 Received the Top Engineering Student Award from Inha University
 - *2023.08* :&nbsp;💸💸 Received a Research Scholarship from Inha University
