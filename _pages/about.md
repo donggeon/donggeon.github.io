@@ -41,12 +41,13 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of L
 - *2018.03 - 2024.02*, **B.S.** in Information and Communication Engineering, <a href="https://eng.inha.ac.kr/" style="color: #7289da; text-decoration: none;">**Inha University**</a>
 
 
-# 💻 Work Experiences
-- *2024.01 - Current*, **Research Assistant**, <a href="https://sites.google.com/view/postechdi/home" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, POSTECH, South Korea
+# 💻 Work and Research Experiences
+- *2024.01 - Current*, **Graduate Research Assistant**, <a href="https://sites.google.com/view/postechdi/home" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, POSTECH, South Korea
 - *2024.03 - 2024.05*, **Lecturer**, <a href="https://www.kiro.re.kr/eng/default.asp" style="color: #7289da; text-decoration: none;">KIRO (Korea Institute of Robotics and Technology Convergence)</a>, South Korea 
 - *2024.01 - 2024.01*, **Visiting Researcher**, <a href="https://www.hyperez.io/?lang=en" style="color: #7289da; text-decoration: none;">HyperEZ Inc.</a>, South Korea 
-- *2022.11 - 2023.11*, **Research Assistant**, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
-- *2021.07 - 2023.06*, **Research Assistant**, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
+- *2023.03 - 2023.12*, **Teaching Assistant**, Department of Information and Communication Engineering, Inha University, South Korea
+- *2022.11 - 2023.11*, **Undergraduate Research Assistant**, <a href="https://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab.</a>, Inha University, South Korea 
+- *2021.07 - 2023.06*, **Undergraduate Research Assistant**, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab.</a>, Inha University, South Korea 
 - *2021.10 - 2023.05*, **Lecturer**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
 
 
@@ -67,6 +68,12 @@ Changhun Koo\*, Yoonjoo Jung\*, <u>DongGeon Lee*</u> (\*: equal contribution)\\
 <span style="color:darkred">**ACK**</span> 2021
 
 
+# 📝 Under Review
+- **Enhancing Adverse Event Reporting with AI: Using Large Language Models to Detect Inpatient Falls** \\
+[Under Review] \\
+Hyunchul Park, Insook Cho, Byeong Sun Park, <u>DongGeon Lee</u> \\
+
+
 # 💡 Patent
 - **System for providing parking information and control method** \\
 <a href="https://doi.org/10.8080/1020210178090" style="color: #7289da; text-decoration: none;">[DOI]</a> \\
@@ -74,10 +81,6 @@ Yoonjoo Jung, <u>DongGeon Lee</u>, Changhun Koo\\
 <!-- <span style="color:darkred">**ACK**</span> 2021 -->
 KR-Application No. 10-2021-0178090, South Korea, December 2021
 
-
-# 👨‍🏫 Teaching Assistant Experiences
-- *2023.09 - 2023.12*, TA for *ICE2004: Data Structure* and *ICE4016: Database Capstone Design*, Inha University
-- *2023.03 - 2023.06*, TA for *ICE1005: Introduction to AI Programming* and *ICE3020: Algorithm Capstone Design*, Inha University
 
 
 # 🎖 Awards & Scholarships
