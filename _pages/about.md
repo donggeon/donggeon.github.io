@@ -23,7 +23,7 @@ My research interests are mainly in the field of Natural Language Processing (NL
 
 As a researcher in NLP, my ultimate goal is to make the world a better place using data and large language models (LLMs).
 
-In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of LLMs**, (3) **Domain Adaptation in LLMs**, and (4) Applications of LLM (e.g., **Retrieval-Augmented Generation** for LLMs).
+In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Improvement & Evaluation of Retrieval-augmented Language Models**, and (3) **Domain Adaptation for LLMs**
 
 - CV: [[Link]](https://oneonlee.github.io/my/CV.pdf)
 - Contact: dg.lee [at] postech.ac.kr
@@ -43,12 +43,12 @@ In particular, I am dedicated to (1) **Data-centric NLP**, (2) **Evaluation of L
 
 # 💻 Work and Research Experiences
 - *2024.02 - Present*, **Graduate Research Assistant**, <a href="https://sites.google.com/view/postechdi/home" style="color: #7289da; text-decoration: none;">Data Intelligence Lab</a>, POSTECH, South Korea
-- *2024.03 - 2024.05*, **Lecturer**, <a href="https://www.kiro.re.kr/eng/default.asp" style="color: #7289da; text-decoration: none;">KIRO (Korea Institute of Robotics and Technology Convergence)</a>, South Korea 
+- *2024.03 - 2024.05*, **Instructor**, <a href="https://www.kiro.re.kr/eng/default.asp" style="color: #7289da; text-decoration: none;">KIRO (Korea Institute of Robotics and Technology Convergence)</a>, South Korea 
 - *2023.12 - 2024.01*, **Visiting Researcher**, <a href="https://www.hyperez.io/?lang=en" style="color: #7289da; text-decoration: none;">HyperEZ Inc.</a>, South Korea 
 - *2023.03 - 2023.12*, **Teaching Assistant**, Department of Information and Communication Engineering, Inha University, South Korea
 - *2022.11 - 2023.11*, **Undergraduate Research Assistant**, <a href="http://dilab.inha.ac.kr/" style="color: #7289da; text-decoration: none;">Data Intelligence Lab</a>, Inha University, South Korea 
 - *2021.07 - 2023.06*, **Undergraduate Research Assistant**, <a href="https://github.com/ni-inha" style="color: #7289da; text-decoration: none;">Nursing Informatics Lab</a>, Inha University, South Korea 
-- *2021.10 - 2023.05*, **Lecturer**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
+- *2021.10 - 2023.05*, **Instructor**, <a href="https://jamcoding.co.kr/" style="color: #7289da; text-decoration: none;">Jamcoding Co.,Ltd.</a>, South Korea 
 
 
 # 📝 Conferences (International)
