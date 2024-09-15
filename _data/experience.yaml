@@ -1,0 +1,40 @@
+experiences:
+  - place: "POSTECH DI Lab"
+    time: "Feb. 2024 - Present"
+    title: "Graduate Research Assistant"
+    subtitle: "Advisor: Prof. Hwanjo Yu"
+    category: "work"
+
+  - place: "POSTECH"
+    time: "Feb. 2024 - Present"
+    title: "M.S. Student in Artificial Intelligence"
+    category: "school"
+
+  - place: "HyperEZ Inc."
+    time: "Dec. 2023 - Jan. 2024"
+    title: "Visiting Researcher"
+    subtitle: "Host: Kyle Sangseok Youn"
+    category: "work"
+
+  - place: "Inha Data Intelligence Lab"
+    time: "Nov. 2022 - Nov. 2023"
+    title: "Undergraduate Research Assistant"
+    subtitle: "Advisor: Prof. Wonik Choi"
+    category: "work"
+
+  - place: "Inha Nursing Informatics Lab"
+    time: "Jul. 2021 - Jun. 2023"
+    title: "Undergraduate Research Assistant"
+    subtitle: "Advisor: Prof. Insook Cho"
+    category: "work"
+
+  - place: "Republic of Korea Army"
+    time: "Jul. 2019 - Feb. 2021"
+    title: "Honorably Discharged as Sergeant"
+    subtitle: "Compulsory Military service"
+    category: "work"
+
+  - place: "Inha University"
+    time: "Mar. 2018 - Feb. 2024"
+    title: "B.S. in Information & Communication Engineering"
+    category: "school"
