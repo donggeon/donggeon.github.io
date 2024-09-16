@@ -77,6 +77,11 @@ h4 {
 @media (min-width: 550px) {
   .header {
     margin-top: 5rem; }
+  .u-max-full-width {
+    /* display: none; */
+    width: 30%; 
+    height: auto;
+  }
 }
 
 /* Larger than tablet */
