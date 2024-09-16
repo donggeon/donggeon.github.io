@@ -77,11 +77,6 @@ h4 {
 @media (min-width: 550px) {
   .header {
     margin-top: 5rem; }
-  .u-max-full-width {
-    /* display: none; */
-    width: 30%; 
-    height: auto;
-  }
 }
 
 /* Larger than tablet */
@@ -197,4 +192,11 @@ h4 {
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
+}
+
+@media (max-width: 550px) {
+  .u-max-full-width {
+    width: 100%;
+    height: auto;
+  }
 }
