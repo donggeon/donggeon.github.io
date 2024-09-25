@@ -1,19 +1,19 @@
 papers:
-  - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
-    # authors: ""
-    venue: "Under Review"
-    # paper_pdf: ""
-    selected: y
-
   - title: "Enhancing Adverse Event Reporting with Clinical Natural Language Processing Techniques: Using Language Models to Detect Inpatient Falls"
     # authors: ""
     venue: "Under Review"
     # paper_pdf: ""
     selected: y
 
+  - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
+    authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
+    paper_pdf: "assets/publications/2024_question_types_matter/paper.pdf"
+    venue: "HCLT-KACL 2024 (Domestic)"
+    selected: y
+
   - title: "TXG: Thematic and eXplanatory Generation Pipeline for Table Understanding"
-    # authors: ""
-    venue: "Under Review"
+    authors: "Taeyoon Kwack, Jisoo Kim, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
+    venue: "HCLT-KACL 2024 (Domestic)"
     # paper_pdf: ""
     selected: n
 
@@ -32,6 +32,6 @@ papers:
 
   - title: "Through deep learning-based video processing, Design and implementation of Smart Port Parking Information System"
     authors: "Changhun Koo*, Yoonjoo Jung*, <b>DongGeon Lee*</b>"
-    venue: "ACK 2021"
+    venue: "ACK 2021 (Domestic)"
     paper_pdf: "https://koreascience.kr/article/CFKO202133648918944.page"
     selected: n
