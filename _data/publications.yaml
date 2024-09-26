@@ -3,7 +3,7 @@ papers:
     # authors: ""
     venue: "Under Review"
     # paper_pdf: ""
-    selected: y
+    selected: n
 
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
@@ -11,8 +11,8 @@ papers:
     venue: "HCLT-KACL 2024 (Domestic)"
     selected: y
 
-  - title: "TXG: Thematic and eXplanatory Generation Pipeline for Table Understanding"
-    authors: "Taeyoon Kwack, Jisoo Kim, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
+  - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
+    authors: "TaeYoon Kwack, Jisoo Kim, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
     venue: "HCLT-KACL 2024 (Domestic)"
     # paper_pdf: ""
     selected: n
