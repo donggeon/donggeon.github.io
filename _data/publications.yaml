@@ -14,7 +14,7 @@ papers:
   - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
     authors: "TaeYoon Kwack, Jisoo Kim, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
     venue: "HCLT-KACL 2024 (Domestic)"
-    # paper_pdf: ""
+    paper_pdf: "assets/publications/2024_Tabular-TX/paper.pdf"
     selected: n
 
   - title: "Effects of Language Differences on Inpatient Fall Detection Using Deep Learning"
