@@ -8,14 +8,14 @@ papers:
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     paper_pdf: "assets/publications/2024_question_types_matter/paper.pdf"
-    venue: "HCLT-KACL 2024 (Domestic)"
+    venue: "HCLT-KACL 2024"
     selected: y
 
   - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
     authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
-    venue: "HCLT-KACL 2024 (Domestic)"
+    venue: "HCLT-KACL 2024; Excellent Paper Award"
     paper_pdf: "assets/publications/2024_Tabular-TX/paper.pdf"
-    selected: n
+    selected: y
 
   - title: "Effects of Language Differences on Inpatient Fall Detection Using Deep Learning"
     authors: "Insook Cho, EunJu Lee, <b>DongGeon Lee</b>"
@@ -32,6 +32,6 @@ papers:
 
   - title: "Through deep learning-based video processing, Design and implementation of Smart Port Parking Information System"
     authors: "Changhun Koo*, Yoonjoo Jung*, <b>DongGeon Lee*</b>"
-    venue: "ACK 2021 (Domestic)"
+    venue: "ACK 2021"
     paper_pdf: "https://koreascience.kr/article/CFKO202133648918944.page"
     selected: n
