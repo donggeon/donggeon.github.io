@@ -8,6 +8,7 @@ papers:
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     paper_pdf: "assets/publications/2024_question_types_matter/paper.pdf"
+    slides: "assets/publications/2024_question_types_matter/slide.pdf"
     venue: "HCLT-KACL 2024"
     selected: y
 
