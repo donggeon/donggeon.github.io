@@ -10,11 +10,11 @@ experiences:
     title: "M.S. Student in Artificial Intelligence"
     category: "school"
 
-  - place: "HyperEZ Inc."
-    time: "Dec. 2023 - Jan. 2024"
-    title: "Visiting Researcher"
-    subtitle: "Host: Kyle Sangseok Youn"
-    category: "work"
+  # - place: "HyperEZ Inc."
+  #   time: "Dec. 2023 - Jan. 2024"
+  #   title: "Visiting Researcher"
+  #   subtitle: "Host: Kyle Sangseok Youn"
+  #   category: "work"
 
   - place: "Inha Data Intelligence Lab"
     time: "Nov. 2022 - Nov. 2023"

@@ -1,4 +1,10 @@
 papers:
+  - title: "Decomposing Non-Factoid Question with Retrieval-Augmented Generation"
+    # authors: ""
+    venue: "Under Review"
+    # paper_pdf: ""
+    selected: n
+
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
     # authors: ""
     venue: "Under Review"
