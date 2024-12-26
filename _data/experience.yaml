@@ -1,13 +1,8 @@
 experiences:
-  - place: "POSTECH DI Lab"
-    time: "Feb. 2024 - Present"
-    title: "Graduate Research Assistant"
-    subtitle: "Advisor: Prof. Hwanjo Yu"
-    category: "work"
-
   - place: "POSTECH"
     time: "Feb. 2024 - Present"
     title: "M.S. Student in Artificial Intelligence"
+    subtitle: "DI Lab (Advisor: Prof. Hwanjo Yu)"
     category: "school"
 
   # - place: "HyperEZ Inc."
