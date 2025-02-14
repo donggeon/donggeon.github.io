@@ -6,14 +6,14 @@ papers:
     selected: n
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
-    # authors: ""
-    venue: "Under Review"
-    # paper_pdf: ""
-    selected: n
+    authors: "Insook Cho, Hyunchul Park, Byeong Sun Park, <b>DongGeon Lee</b>"
+    venue: "Journal of Advanced Nursing"
+    paper_pdf: "https://doi.org/10.1111/jan.16812"
+    selected: y
 
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
-    paper_pdf: "assets/publications/2024_question_types_matter/paper.pdf"
+    paper_pdf: "https://koreascience.kr/article/CFKO202404272002603.page"
     slides: "assets/publications/2024_question_types_matter/slide.pdf"
     venue: "HCLT-KACL 2024"
     selected: y
@@ -21,8 +21,8 @@ papers:
   - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
     authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
     venue: "HCLT-KACL 2024; Excellent Paper Award"
-    paper_pdf: "assets/publications/2024_Tabular-TX/paper.pdf"
-    selected: y
+    paper_pdf: "https://koreascience.kr/article/CFKO202404272003862.page"
+    selected: n
 
   - title: "Effects of Language Differences on Inpatient Fall Detection Using Deep Learning"
     authors: "Insook Cho, EunJu Lee, <b>DongGeon Lee</b>"
