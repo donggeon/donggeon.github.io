@@ -5,9 +5,15 @@ papers:
     # paper_pdf: ""
     selected: n
 
+  - title: "REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
+    authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2502.13622"
+    selected: y
+
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
     authors: "Insook Cho, Hyunchul Park, Byeong Sun Park, <b>DongGeon Lee</b>"
-    venue: "Journal of Advanced Nursing"
+    venue: "Journal of Advanced Nursing (SCIE, IF: 3.8, Q1; 91.3%)"
     paper_pdf: "https://doi.org/10.1111/jan.16812"
     selected: y
 
@@ -28,7 +34,7 @@ papers:
     authors: "Insook Cho, EunJu Lee, <b>DongGeon Lee</b>"
     venue: "MedInfo 2023"
     paper_pdf: "https://pubmed.ncbi.nlm.nih.gov/38426881/"
-    poster: "https://az659834.vo.msecnd.net/eventsairaueprod/production-hisa-public/d3831c72b463437e8554d71a5e7dc69e" # "/assets/publications/2023_medinfo/poster.jfif"
+    poster: "https://az659834.vo.msecnd.net/eventsairaueprod/production-hisa-public/d3831c72b463437e8554d71a5e7dc69e"
     selected: y
 
   - title: "Bridging the Reporting Gap of Inpatient Falls to Improve Safety Practices Using Deep-Learning-Based Language Models and Multisite Data"
