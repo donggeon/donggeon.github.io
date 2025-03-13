@@ -1,9 +1,9 @@
 papers:
-  - title: "Decomposing Non-Factoid Question with Retrieval-Augmented Generation"
-    # authors: ""
-    venue: "Under Review"
+  - title: "Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering"
+    authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
+    venue: "NAACL Student Research Workshop 2025"
     # paper_pdf: ""
-    selected: n
+    selected: y
 
   - title: "REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
     authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
