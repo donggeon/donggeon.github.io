@@ -17,12 +17,18 @@ papers:
     paper_pdf: "https://doi.org/10.1111/jan.16812"
     selected: y
 
+  - title: "Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data"
+    authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2501.10487"
+    selected: n
+
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     paper_pdf: "https://koreascience.kr/article/CFKO202404272002603.page"
     slides: "assets/publications/2024_question_types_matter/slide.pdf"
     venue: "HCLT-KACL 2024"
-    selected: y
+    selected: n
 
   - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
     authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
@@ -35,13 +41,13 @@ papers:
     venue: "MedInfo 2023"
     paper_pdf: "https://pubmed.ncbi.nlm.nih.gov/38426881/"
     poster: "https://az659834.vo.msecnd.net/eventsairaueprod/production-hisa-public/d3831c72b463437e8554d71a5e7dc69e"
-    selected: y
+    selected: n
 
   - title: "Bridging the Reporting Gap of Inpatient Falls to Improve Safety Practices Using Deep-Learning-Based Language Models and Multisite Data"
     authors: "<b>DongGeon Lee</b>, EunJu Lee, Insook Cho"
     venue: "AMIA CIC 2023"
     paper_pdf: "https://bit.ly/cic23s47"
-    selected: y
+    selected: n
 
   - title: "Through deep learning-based video processing, Design and implementation of Smart Port Parking Information System"
     authors: "Changhun Koo*, Yoonjoo Jung*, <b>DongGeon Lee*</b>"
