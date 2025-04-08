@@ -1,14 +1,14 @@
 papers:
+  - title: "REFIND at SemEval-2025 Task 3: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
+    authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
+    venue: "SemEval @ ACL 2025"
+    paper_pdf: "https://arxiv.org/abs/2502.13622"
+    selected: y
+
   - title: "Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     venue: "NAACL 2025 SRW"
     paper_pdf: "https://arxiv.org/abs/2503.15879"
-    selected: y
-
-  - title: "REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
-    authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2502.13622"
     selected: y
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
