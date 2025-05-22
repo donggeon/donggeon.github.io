@@ -1,27 +1,33 @@
 papers:
+  - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
+    authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2505.15389"
+    selected: y
+
   - title: "REFIND at SemEval-2025 Task 3: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
     authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
     venue: "SemEval @ ACL 2025"
     paper_pdf: "https://arxiv.org/abs/2502.13622"
     selected: y
 
-  - title: "Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering"
+  - title: "Breaking Down Non-Factoid Questions: Leveraging Type-Aware Multi-Aspect Decomposition in Retrieval-Augmented Generation"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
-    venue: "NAACL 2025 SRW"
+    venue: "XLLM @ ACL 2025 | NAACL 2025 SRW (Non-Archival)"
     paper_pdf: "https://arxiv.org/abs/2503.15879"
     selected: y
+
+  - title: "Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data"
+    authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
+    venue: "TRL @ ACL 2025"
+    paper_pdf: "https://arxiv.org/abs/2501.10487"
+    selected: n
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
     authors: "Insook Cho, Hyunchul Park, Byeong Sun Park, <b>DongGeon Lee</b>"
     venue: "Journal of Advanced Nursing (SCIE, IF: 3.8, Q1; 97.2%)"
     paper_pdf: "https://doi.org/10.1111/jan.16812"
     selected: y
-
-  - title: "Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data"
-    authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2501.10487"
-    selected: n
 
   - title: "Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Augmented Generation Across Diverse Question Types"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
