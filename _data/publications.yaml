@@ -11,7 +11,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2502.13622"
     selected: y
 
-  - title: "Breaking Down Non-Factoid Questions: Leveraging Type-Aware Multi-Aspect Decomposition in Retrieval-Augmented Generation"
+  - title: "Typed-RAG: Type-Aware Decomposition of Non-Factoid Questions for Retrieval-Augmented Generation"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     venue: "XLLM @ ACL 2025 | NAACL 2025 SRW (Non-Archival)"
     paper_pdf: "https://arxiv.org/abs/2503.15879"
