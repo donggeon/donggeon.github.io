@@ -12,7 +12,7 @@ papers:
     selected: y
 
   - title: "Designing Synthetic Data and Training Strategies for Multi-hop Retrieval-Augmented Generation"
-    authors: "Kyumin Lee, Minjin Jeon, Sanghwan Jang, <b>DongGeon Lee</b>,, Hwanjo Yu"
+    authors: "Kyumin Lee, Minjin Jeon, Sanghwan Jang, <b>DongGeon Lee</b>, Hwanjo Yu"
     venue: "KCC 2025"
     selected: n
   
