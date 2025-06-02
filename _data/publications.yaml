@@ -11,6 +11,11 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2502.13622"
     selected: y
 
+  - title: "Designing Synthetic Data and Training Strategies for Multi-hop Retrieval-Augmented Generation"
+    authors: "Kyumin Lee, Minjin Jeon, Sanghwan Jang, <b>DongGeon Lee</b>,, Hwanjo Yu"
+    venue: "KCC 2025"
+    selected: n
+  
   - title: "Typed-RAG: Type-Aware Decomposition of Non-Factoid Questions for Retrieval-Augmented Generation"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     venue: "XLLM @ ACL 2025 | NAACL 2025 SRW (Non-Archival)"
