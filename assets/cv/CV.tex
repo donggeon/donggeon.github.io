@@ -48,7 +48,7 @@
 \setlength{\midrightcolumn}{5.7in}
 
 \newcounter{pubnum}
-\setcounter{pubnum}{10} % Total number of publications + 1
+\setcounter{pubnum}{12} % Total number of publications + 1
 
 \newenvironment{publications}
 {\begin{list}{}
@@ -87,7 +87,7 @@
 
 % Research Interest
 \begin{tabular}{@{}L{\leftcolumn}L{\midrightcolumn}@{}}
-\textcolor{sectioncolor}{\textsc{\textbf{Research Interest}}} & Data-centric natural language processing. \newline Aligning Large Language Models (LLMs) to build trustworthy AI.
+\textcolor{sectioncolor}{\textsc{\textbf{Research Interests}}} & Data-centric natural language processing (NLP). \newline Building trustworthy and safe Large Language Models (LLMs) --- safety \& security oversight of language models, including safety evaluations, red teaming, guardrails.
 \end{tabular}
 
 \vspace{1.5em}
@@ -118,10 +118,10 @@
 \end{spacing}
 \vspace{0.5em}
 \begin{itemize}[leftmargin=1.35in, itemsep=0em, topsep=0.1em]
-    \item Research on the alignment of vision language models (VLMs) with human intent in a multi-turn environment to build safe and trustworthy AI.
-    \item Research on data-centric approaches to improving the mathematical reasoning skills of low-resource LLMs
+    \item Research on Vision-Language Model safety benchmarks and evaluation methodologies.
+    % \item Research on data-centric approaches to improving the mathematical reasoning skills of low-resource LLMs.
     \item Research on knowledge conflicts of LLMs between external and internal knowledge.
-    \item Research on continual domain-incremental learning in language models (LMs).
+    % \item Research on continual domain-incremental learning in language models (LMs).
 \end{itemize}
 
 \vspace{0.7em}
@@ -136,7 +136,7 @@
 \end{spacing}
 \vspace{0.5em}
 \begin{itemize}[leftmargin=1.35in, itemsep=0em, topsep=0.1em]
-    \item Research on mathematical data synthesis for pre-training LLMs
+    \item Research on mathematical data synthesis for pre-training Korean LLMs.
 \end{itemize}
 
 \vspace{0.7em}
@@ -150,7 +150,7 @@
 \end{spacing}
 \vspace{0.5em}
 \begin{itemize}[leftmargin=1.35in, itemsep=0em, topsep=0.1em]
-    \item Research on post-training of LMs for domain adaptation.
+    \item Research on post-training of Language Models (LMs) for domain adaptation.
     \item Research on keyphrase extraction from aviation incident reports via fine-tuning LMs.
 \end{itemize}
 
@@ -177,28 +177,45 @@
 \vspace{-0.5em}
 
 \begin{publications}
+
+
 \pubitem{
-    Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering\\
+    Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study\\
+        \underline{DongGeon Lee}*, Joonwon Jang*, Jihae Jeong,  Hwanjo Yu \\[3pt]
+        \href{https://arxiv.org/abs/2505.15389v1}{arXiv Preprint}, 2025.05
+}
+
+\pubitem{
+    Typed-RAG: Type-Aware Decomposition of Non-Factoid Questions for Retrieval-Augmented Generation \\
         \underline{DongGeon Lee}*, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng \\[3pt]
-        \href{https://arxiv.org/abs/2503.15879}{NAACL'25 SRW} \textbar\ Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Student Research Workshop
+        XLLM @ ACL'25 \textbar\ The First Workshop on Structure-aware Large Language Models (Co-located with the 63rd Annual Meeting of the Association for Computational Linguistics) \\[1.5pt]
+        \href{https://arxiv.org/abs/2503.15879}{NAACL'25 SRW} (Non-Archival) \textbar\ Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Student Research Workshop
+        
 }
 
+
 \pubitem{
-    REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models\\
+    REFIND at SemEval-2025 Task 3: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models\\
         \underline{DongGeon Lee}, Hwanjo Yu \\[3pt]
-        \href{https://arxiv.org/abs/2502.13622}{arXiv Preprint}, 2025.02
-}
-
-\pubitem{
-    Enhancing Adverse Event Reporting With Clinical Language Models: Inpatient Falls\\
-        Insook Cho, Hyunchul Park, Byeong Sun Park, \underline{DongGeon Lee} \\[3pt]
-        \href{https://doi.org/10.1111/jan.16812}{Journal of Advanced Nursing} (SCIE; Q1), 2025.02
+        \href{https://arxiv.org/abs/2502.13622}{SemEval @ ACL'25} \textbar\ The 19th International Workshop on Semantic Evaluation (Co-located with the 63rd Annual Meeting of the Association for Computational Linguistics)
 }
 
 \pubitem{
     Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data \\
         TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, \underline{DongGeon Lee}, Heesun Park  \\[3pt]
-        \href{https://arxiv.org/abs/2501.10487}{arXiv Preprint}, 2025.01
+        \href{https://openreview.net/forum?id=Xwpn1unH8F}{TRL @ ACL'25} \textbar\ The 4th Table Representation Learning Workshop (Co-located with the 63rd Annual Meeting of the Association for Computational Linguistics)
+}
+
+% \pubitem{
+%     Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering\\
+%         \underline{DongGeon Lee}*, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng \\[3pt]
+%         \href{https://arxiv.org/abs/2503.15879}{NAACL'25 SRW} (Non-Archival) \textbar\ Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Student Research Workshop
+% }
+
+\pubitem{
+    Enhancing Adverse Event Reporting With Clinical Language Models: Inpatient Falls\\
+        Insook Cho, Hyunchul Park, Byeong Sun Park, \underline{DongGeon Lee} \\[3pt]
+        \href{https://doi.org/10.1111/jan.16812}{Journal of Advanced Nursing} (SCIE; Q1), 2025.02
 }
 
 \pubitem{
@@ -223,6 +240,12 @@
 
 
 \begin{publications}
+\pubitem{
+    Designing Synthetic Data and Training Strategies for Multi-hop Retrieval-Augmented Generation\\
+        Kyumin Lee, Minjin Jeon, Sanghwan Jang, \underline{DongGeon Lee}, Hwanjo Yu \\[3pt]
+        \href{}{KCC'25} \textbar\ Korea Computer Congress
+}
+
 \pubitem{
     Question Types Matter: An Analysis of Question-Answering Performance in Retrieval-Aug-mented Generation Across Diverse Question Types\\
         \underline{DongGeon Lee}*, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng \\[3pt]
@@ -283,11 +306,14 @@
 % Honors and Awards
 \begin{tabular}{@{}L{\leftcolumn}L{5.35in}R{0.35in}@{}}
 
-\textcolor{sectioncolor}{\textsc{\textbf{Honors and}}} & Gold Prize (Director's Award of the NIKL) & 2024 \\
-\textcolor{sectioncolor}{\textsc{\textbf{Awards}}} & \quad\quad \textit{Korean AI Language Proficiency Challenge, NIKL \footnotesize (National Institute of Korean Language)} &  \\
+\textcolor{sectioncolor}{\textsc{\textbf{Honors and}}} & NAACL 2025 Registration Grant & 2025 \\
+\textcolor{sectioncolor}{\textsc{\textbf{Awards}}} & \quad\quad \textit{NAACL 2025 SRW \footnotesize{(Student Research Workshop)}} &  \\
+
+& Gold Prize (Director's Award of the NIKL) & 2024 \\
+& \quad\quad \textit{Korean AI Language Proficiency Challenge, NIKL \footnotesize (National Institute of Korean Language)} &  \\
 
 & Excellent Paper Award & 2024 \\
-& \quad\quad \textit{HCLT'24; The 36th Annual Conference on Human \& Cognitive Language Technology} &  \\
+& \quad\quad \textit{HCLT 2024 \footnotesize (The 36th Annual Conference on Human \& Cognitive Language Technology)} &  \\
 
 & Scholarship for Outstanding Graduate Students & 2024 \\
 & \quad\quad \textit{POSTECH} &  \\
@@ -301,7 +327,7 @@
 
 \end{tabular}
 
-\vspace{1em}
+\vspace{1.5em}
 
 % Academic Services
 \begin{tabular}{@{}L{\leftcolumn}L{5.35in}R{0.35in}@{}}
@@ -310,6 +336,26 @@
 & Secondary Reviewer of ACL ARR \footnotesize (Association for Computational Linguistics Rolling Review) & 2025 \\
 \textcolor{sectioncolor}{\textsc{\textbf{Services}}} & Reviewer of SemEval \footnotesize (International Workshop on Semantic Evaluation) & 2025 \\
 \end{tabular}
+
+\vspace{1.5em}
+
+
+% Technical Skills
+\begin{tabular}{@{}L{\leftcolumn}L{5.35in}R{0.35in}@{}}
+
+\textcolor{sectioncolor}{\textsc{\textbf{Technical}}} & Professional working proficiency & \\
+\textcolor{sectioncolor}{\textsc{\textbf{Skills}}} & \quad\quad  Python, PyTorch, transformers, vLLM, Git &  \\
+
+& Limited working proficiency &  \\
+& \quad\quad  Shell Script, Keras, \LaTeX &  \\
+
+& Elementary proficiency & \\
+& \quad\quad DeepSpeed, TensorFlow, C++, C, MySQL &  \\
+
+\end{tabular}
+
+\vspace{1.5em}
+
 
 % % Grants Awarded
 % \begin{tabular}{@{}L{\leftcolumn}L{\midcolumn}R{\rightcolumn}@{}}
