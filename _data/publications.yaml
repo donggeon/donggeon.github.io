@@ -19,13 +19,13 @@ papers:
   - title: "Typed-RAG: Type-Aware Decomposition of Non-Factoid Questions for Retrieval-Augmented Generation"
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     venue: "XLLM @ ACL 2025 | NAACL 2025 SRW (Non-Archival)"
-    paper_pdf: "https://arxiv.org/abs/2503.15879"
+    paper_pdf: "https://aclanthology.org/2025.xllm-1.14/"
     selected: y
 
   - title: "Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data"
     authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
     venue: "TRL @ ACL 2025"
-    paper_pdf: "https://openreview.net/forum?id=Xwpn1unH8F"
+    paper_pdf: "https://aclanthology.org/2025.trl-1.1/"
     selected: n
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
