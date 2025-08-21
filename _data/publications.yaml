@@ -1,4 +1,10 @@
 papers:
+  - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
+    authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
+    venue: "EMNLP 2025 Main"
+    paper_pdf: "https://arxiv.org/abs/2505.15389"
+    selected: y
+    
   - title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
     authors: "Bodam Kim*, Hiskias Dingeto*, Taeyoun Kwon*, Dasol Choi, <b>DongGeon Lee</b>, Haon Park, JaeHoon Lee, Jongho Shin"
     venue: "Preprint"
@@ -27,12 +33,6 @@ papers:
     authors: "Kyumin Lee, Minjin Jeon, Sanghwan Jang, <b>DongGeon Lee</b>, Hwanjo Yu"
     venue: "KCC 2025"
     selected: n
-
-  - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
-    authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2505.15389"
-    selected: y
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
     authors: "Insook Cho, Hyunchul Park, Byeong Sun Park, <b>DongGeon Lee</b>"
