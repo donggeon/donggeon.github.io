@@ -5,6 +5,16 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2505.15389"
     selected: y
     
+  - title: "Everyday Physics in Korean Contexts: A Culturally Grounded Physical Reasoning Benchmark"
+    authors: "Jihae Jeong*, DaeYeop Lee*, <b>DongGeon Lee</b>, Hwanjo Yu"
+    venue: "TRL @ EMNLP 2025"
+    selected: n
+  
+  - title: "Synthesizing a Korean-centric Math Corpus to Enhance Math Problem-Solving Ability in Korean Large Language Models"
+    authors: "<b>DongGeon Lee*</b>, Jisoo Baik, Wonjae Park, Hwanjo Yu"
+    venue: "HCLT 2025 (Domestic)"
+    selected: n
+
   - title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
     authors: "Bodam Kim*, Hiskias Dingeto*, Taeyoun Kwon*, Dasol Choi, <b>DongGeon Lee</b>, Haon Park, JaeHoon Lee, Jongho Shin"
     venue: "Preprint"
@@ -31,7 +41,8 @@ papers:
 
   - title: "Designing Synthetic Data and Training Strategies for Multi-hop Retrieval-Augmented Generation"
     authors: "Kyumin Lee, Minjin Jeon, Sanghwan Jang, <b>DongGeon Lee</b>, Hwanjo Yu"
-    venue: "KCC 2025"
+    venue: "KCC 2025 (Domestic)"
+    paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318252"
     selected: n
 
   - title: "Enhancing Adverse Event Reporting with Clinical Language Models: Inpatient Falls"
@@ -44,12 +55,12 @@ papers:
     authors: "<b>DongGeon Lee*</b>, Ahjeong Park*, Hyeri Lee, Hyeonseo Nam, Yunho Maeng"
     paper_pdf: "https://koreascience.kr/article/CFKO202404272002603.page"
     slides: "assets/publications/2024_question_types_matter/slide.pdf"
-    venue: "HCLT-KACL 2024"
+    venue: "HCLT-KACL 2024 (Domestic)"
     selected: n
 
   - title: "Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning"
     authors: "TaeYoon Kwack*, Jisoo Kim*, Ki Yong Jung, <b>DongGeon Lee</b>, Heesun Park"
-    venue: "HCLT-KACL 2024; Excellent Paper Award"
+    venue: "HCLT-KACL 2024 (Domestic); Excellent Paper Award"
     paper_pdf: "https://koreascience.kr/article/CFKO202404272003862.page"
     selected: n
 
@@ -68,6 +79,6 @@ papers:
 
   - title: "Through deep learning-based video processing, Design and implementation of Smart Port Parking Information System"
     authors: "Changhun Koo*, Yoonjoo Jung*, <b>DongGeon Lee*</b>"
-    venue: "ACK 2021"
+    venue: "ACK 2021 (Domestic)"
     paper_pdf: "https://koreascience.kr/article/CFKO202133648918944.page"
     selected: n
