@@ -7,12 +7,14 @@ papers:
     
   - title: "Everyday Physics in Korean Contexts: A Culturally Grounded Physical Reasoning Benchmark"
     authors: "Jihae Jeong*, DaeYeop Lee*, <b>DongGeon Lee</b>, Hwanjo Yu"
-    venue: "TRL @ EMNLP 2025"
+    venue: "MRL @ EMNLP 2025"
+    paper_pdf: "https://arxiv.org/abs/2509.17807"
     selected: n
   
   - title: "Synthesizing a Korean-centric Math Corpus to Enhance Math Problem-Solving Ability in Korean Large Language Models"
     authors: "<b>DongGeon Lee*</b>, Jisoo Baik, Wonjae Park, Hwanjo Yu"
     venue: "HCLT 2025 (Domestic)"
+    paper_pdf: "https://donggeon.github.io/assets/publications/2025_SyntheticMath/paper.pdf"
     selected: n
 
   - title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
