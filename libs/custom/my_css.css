@@ -12,7 +12,7 @@ h4 {
   margin-bottom: 0px; }
 .main-description .fa {
   color: #646464;
-  font-size: 22px;
+  font-size: 26px;
   margin-top: 5px; }
 .paper {
   margin-bottom: 20px }
@@ -76,7 +76,7 @@ h4 {
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
-    margin-top: 5rem; }
+    margin-top: 4.25rem; }
 }
 
 /* Larger than tablet */
