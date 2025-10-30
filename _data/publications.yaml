@@ -15,7 +15,13 @@ papers:
     venue: "MRL @ EMNLP 2025"
     paper_pdf: "https://arxiv.org/abs/2509.17807"
     selected: n
-  
+
+  - title: "Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures"
+    authors: "Tyler A. Chang*, Catherine Arnett*, ..., <b>DongGeon Lee</b>, ... (339 authors; author list abbreviated)"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2510.24081"
+    selected: n
+
   - title: "Synthesizing a Korean-centric Math Corpus to Enhance Math Problem-Solving Ability in Korean Large Language Models"
     authors: "<b>DongGeon Lee*</b>, Jisoo Baik, Wonjae Park, Hwanjo Yu"
     venue: "HCLT 2025 (Domestic)"
