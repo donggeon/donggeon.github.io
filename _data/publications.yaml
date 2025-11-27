@@ -1,18 +1,13 @@
 papers:
-  - title: "COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs"
-    authors: "Dasol Choi*, <b>DongGeon Lee*</b>, Brigitta Jesica Kartono*, Helena Berndt, Haon Park, Hwanjo Yu<sup>†</sup>, Minsuk Kahng<sup>†</sup>"
-    venue: "Under Review"
-    selected: y
-    
   - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
     authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
     venue: "EMNLP 2025 Main"
-    paper_pdf: "https://arxiv.org/abs/2505.15389"
+    paper_pdf: "https://aclanthology.org/2025.emnlp-main.1555/"
     selected: y
     
   - title: "Everyday Physics in Korean Contexts: A Culturally Grounded Physical Reasoning Benchmark"
     authors: "Jihae Jeong*, DaeYeop Lee*, <b>DongGeon Lee</b>, Hwanjo Yu"
-    venue: "MRL @ EMNLP 2025"
+    venue: "MRL @ EMNLP 2025 (Non-Archival)"
     paper_pdf: "https://arxiv.org/abs/2509.17807"
     selected: n
 
@@ -25,7 +20,7 @@ papers:
   - title: "Synthesizing a Korean-centric Math Corpus to Enhance Math Problem-Solving Ability in Korean Large Language Models"
     authors: "<b>DongGeon Lee*</b>, Jisoo Baik, Wonjae Park, Hwanjo Yu"
     venue: "HCLT 2025 (Domestic)"
-    paper_pdf: "https://donggeon.github.io/assets/publications/2025_SyntheticMath/paper.pdf"
+    paper_pdf: "https://koreascience.kr/article/CFKO202533132417388.page"
     selected: n
 
   - title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
@@ -43,7 +38,7 @@ papers:
   - title: "REFIND at SemEval-2025 Task 3: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models"
     authors: "<b>DongGeon Lee</b>, Hwanjo Yu"
     venue: "SemEval @ ACL 2025"
-    paper_pdf: "https://arxiv.org/abs/2502.13622"
+    paper_pdf: "https://aclanthology.org/2025.semeval-1.2/"
     selected: y
 
   - title: "Theme-Explanation Structure for Table Summarization using Large Language Models: A Case Study on Korean Tabular Data"
