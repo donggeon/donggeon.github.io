@@ -5,6 +5,12 @@ experiences:
     subtitle: "DI Lab (Advisor: Prof. Hwanjo Yu)"
     category: "school"
 
+  - place: "Meta"
+    time: "Dec. 2025 - Present"
+    title: "Invited Safety Researcher (External)"
+    subtitle: "Invite-only Bug Bounty Pilot Program"
+    category: "work"
+
   - place: "AIM Intelligence"
     time: "Jul. 2025 - Present"
     title: "Research Scientist"
@@ -19,7 +25,6 @@ experiences:
   # - place: "HyperEZ Inc."
   #   time: "Dec. 2023 - Jan. 2024"
   #   title: "Visiting Researcher"
-  #   subtitle: "Host: Kyle Sangseok Youn"
   #   category: "work"
 
   # - place: "Inha Data Intelligence Lab"
