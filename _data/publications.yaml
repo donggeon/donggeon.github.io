@@ -1,4 +1,10 @@
 papers:
+  - title: "COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs"
+    authors: "Dasol Choi*, <b>DongGeon Lee*</b>, Brigitta Jesica Kartono*, Helena Berndt, Taeyoun Kwon, Joonwon Jang, Haon Park, Hwanjo Yu†, Minsuk Kahng†"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2601.01836"
+    selected: y
+
   - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
     authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
     venue: "EMNLP 2025 Main"
