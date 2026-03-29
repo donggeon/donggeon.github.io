@@ -30,7 +30,7 @@ papers:
     selected: n
 
   - title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
-    authors: "Bodam Kim*, Hiskias Dingeto*, Taeyoun Kwon*, Dasol Choi, <b>DongGeon Lee</b>, Haon Park, JaeHoon Lee, Jongho Shin"
+    authors: "Hiskias Dingeto*, Taeyoun Kwon*, Dasol Choi*, Bodam Kim, <b>DongGeon Lee</b>, Haon Park, JaeHoon Lee, Jongho Shin"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2508.03365"
     selected: y
