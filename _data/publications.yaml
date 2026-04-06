@@ -1,7 +1,7 @@
 papers:
   - title: "COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs"
     authors: "Dasol Choi*, <b>DongGeon Lee*</b>, Brigitta Jesica Kartono*, Helena Berndt, Taeyoun Kwon, Joonwon Jang, Haon Park, Hwanjo Yu†, Minsuk Kahng†"
-    venue: "Preprint"
+    venue: "ACL 2026 Main"
     paper_pdf: "https://arxiv.org/abs/2601.01836"
     selected: y
 
