@@ -5,6 +5,12 @@ papers:
     paper_pdf: "https://aclanthology.org/2026.acl-long.2139/"
     selected: y
 
+  - title: "Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures"
+    authors: "Tyler A. Chang*, Catherine Arnett*, ..., <b>DongGeon Lee</b>, ... (Author list truncated for brevity; 339 authors in total.)"
+    venue: "NeurIPS 2026 Evaluations and Datasets Track"
+    paper_pdf: "https://arxiv.org/abs/2510.24081"
+    selected: y
+    
   - title: "Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study"
     authors: "<b>DongGeon Lee*</b>, Joonwon Jang*, Jihae Jeong, Hwanjo Yu"
     venue: "EMNLP 2025 Main"
@@ -15,12 +21,6 @@ papers:
     authors: "Jihae Jeong*, DaeYeop Lee*, <b>DongGeon Lee</b>, Hwanjo Yu"
     venue: "MRL @ EMNLP 2025 (Non-Archival)"
     paper_pdf: "https://arxiv.org/abs/2509.17807"
-    selected: n
-
-  - title: "Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures"
-    authors: "Tyler A. Chang*, Catherine Arnett*, ..., <b>DongGeon Lee</b>, ... (339 authors; author list abbreviated)"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2510.24081"
     selected: n
 
   - title: "Synthesizing a Korean-centric Math Corpus to Enhance Math Problem-Solving Ability in Korean Large Language Models"
